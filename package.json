@@ -1,0 +1,19 @@
+{
+  "name": "compare-seo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A script two compare seo metas of two pages (or more!)",
+  "main": "lib",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Regis Philibert <regis@regisphilibert.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "node-html-parser": "^6.1.5"
+  }
+}
