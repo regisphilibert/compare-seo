@@ -13,6 +13,7 @@
   "author": "Regis Philibert <regis@regisphilibert.com>",
   "license": "ISC",
   "dependencies": {
+    "gauge": "^5.0.0",
     "node-fetch": "^3.3.1",
     "node-html-parser": "^6.1.5"
   }
